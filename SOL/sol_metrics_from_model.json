@@ -1,0 +1,15 @@
+{
+  "peak_bw": 2040000000000.0,
+  "peak_flops": 51220000000000.0,
+  "kernels": {
+    "softmax_dropout_model": {
+      "flops": 2097152.0,
+      "bytes": 6291456.0,
+      "time_s": 3.0906e-05,
+      "ai": 0.3333333333333333,
+      "achieved_tflops": 0.05200304837380159,
+      "sol_efficiency": 9.978797187677245,
+      "pcie_utilization": 0.10152879416985862
+    }
+  }
+}

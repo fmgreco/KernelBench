@@ -12,10 +12,4 @@ cache/*
 .env
 _build_cache/
 uv.lock
-CLAUDE.mdvenv/
-.env
-__pycache__/
-*.pyc
-*.csv
-*.json
-perlevelrooflineplots/
+CLAUDE.md
