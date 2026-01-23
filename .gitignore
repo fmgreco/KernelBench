@@ -16,3 +16,6 @@ CLAUDE.mdvenv/
 .env
 __pycache__/
 *.pyc
+*.csv
+*.json
+perlevelrooflineplots/
