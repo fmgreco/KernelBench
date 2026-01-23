@@ -12,4 +12,7 @@ cache/*
 .env
 _build_cache/
 uv.lock
-CLAUDE.md
+CLAUDE.mdvenv/
+src/kernelbench/eval_old.py
+venv/
+src/kernelbench/eval_old.py
